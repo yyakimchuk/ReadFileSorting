@@ -3,8 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="9702a818-71c5-48fc-a06e-5e86732bd235" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ReadFileAndSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ReadFileAndSort.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/Main.class" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -37,11 +35,13 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="java" value="1998" />
+          <entry key="txt" value="9" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="JAVA" value="1998" />
+          <entry key="PLAIN_TEXT" value="9" />
         </counts>
       </usages-collector>
     </session>
@@ -150,7 +150,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1540875696447" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1540875977638" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../ArrayCalculate" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
@@ -194,10 +194,19 @@
       <option name="presentableId" value="Default" />
       <updated>1540539944190</updated>
     </task>
+    <task id="LOCAL-00001" summary="Задание 6. Слова из файла в массив. Сколько раз слово встречается в массиве. Слово с максимальным количеством повторений.">
+      <created>1540875896895</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1540875896895</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24659607" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -229,6 +238,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Задание 6. Слова из файла в массив. Сколько раз слово встречается в массиве. Слово с максимальным количеством повторений." />
+    <option name="LAST_COMMIT_MESSAGE" value="Задание 6. Слова из файла в массив. Сколько раз слово встречается в массиве. Слово с максимальным количеством повторений." />
   </component>
   <component name="editorHistoryManager">
     <entry file="jar://C:/Program Files/Java/jdk-11/lib/src.zip!/java.base/java/util/function/Consumer.java">
